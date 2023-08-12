@@ -13,3 +13,6 @@
 :heavy_check_mark: Hover e Active
 
 :heavy_check_mark: Footer funcional
+
+📂: Como acessar o projeto:
+<p> A página está hospedada no Veercel e está disponivel através do link: https://praticando-html-projeto-aluraplus.vercel.app  </p>
