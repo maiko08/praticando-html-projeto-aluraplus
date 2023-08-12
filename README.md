@@ -15,4 +15,4 @@
 :heavy_check_mark: Footer funcional
 
 📂: Como acessar o projeto:
-<p> A página está hospedada no Veercel e está disponivel através do link: https://praticando-html-projeto-aluraplus.vercel.app  </p>
+<p> A página está hospedada no Veercel e está disponivel através do link: https://maikoprojetoaluraplus.vercel.app  </p>
